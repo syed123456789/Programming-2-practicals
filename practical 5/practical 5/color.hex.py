@@ -8,3 +8,5 @@ while color !="":
     else:
          print("Invalid color")
     color = input("enter a color:")
+    #checkig something
+    #add docstring to prgoram fie
